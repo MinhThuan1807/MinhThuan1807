@@ -6,11 +6,11 @@
 
 ### 👨‍💻 About Me
 
-🎓 Year 3 Software Engineering student
-💪 Gym everyday — discipline on and off the keyboard
-🎯 Goal: Land a stable, impactful role in tech
-🏅 TOEIC: 655/990
-🌱 Currently leveling up: System Design & AWS
+🎓 Year 3 Software Engineering student <br>
+💪 Gym everyday — discipline on and off the keyboard <br>
+🎯 Goal: Land a stable, impactful role in tech<br>
+🏅 TOEIC: 655/990 <br>
+🌱 Currently leveling up: System Design & AWS <br>
 📫 Reach me: [nguyenthuan05.work@gmail.com]
 
 ---
