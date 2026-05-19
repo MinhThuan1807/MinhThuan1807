@@ -1,7 +1,8 @@
 <div align="center">
-  <img src="/earth-end.jpg" width="100%"/>
+  <video width="100%" autoplay muted loop playsinline>
+    <source src="/intro.mp4" type="video/mp4">
+  </video>
 </div>
-
 ---
 
 ### 👨‍💻 About Me
@@ -22,7 +23,7 @@
 
 - 📫 How to reach me **nguyenthuan05.work@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 </p>
 
