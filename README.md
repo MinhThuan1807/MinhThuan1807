@@ -1,7 +1,5 @@
 <div align="center">
-  <video width="100%" autoplay muted loop playsinline>
-    <source src="/intro.mp4" type="video/mp4">
-  </video>
+  <img src="/introMe.gif" width="100%"/>
 </div>
 ---
 
