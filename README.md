@@ -1,15 +1,19 @@
-<div align="center">
-  <img src="/introMe.gif" width="100%"/>
-</div>
----
-
 ### 👨‍💻 About Me
 
-🎓 Year 3 Software Engineering student <br>
-💪 Gym everyday — discipline on and off the keyboard <br>
-🎯 Goal: Land a stable, impactful role in tech<br>
-🏅 TOEIC: 655/990 <br>
-🌱 Currently leveling up: System Design & AWS <br>
+👨‍💻 Software Engineering Student
+
+I enjoy building full-stack web applications using:
+
+• Frontend: Next.js, React, TypeScript, TailwindCSS
+• Backend: NestJS, Node.js, PostgreSQL
+• Cloud: AWS
+
+Currently focusing on:
+- System Design
+- Cloud Architecture
+- Scalable Backend Development
+
+Open to Internship and Fresher Software Engineer opportunities.
 📫 Reach me: [nguyenthuan05.work@gmail.com]
 
 ---
