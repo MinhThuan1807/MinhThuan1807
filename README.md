@@ -40,15 +40,6 @@ Building scalable web applications with Next.js, NestJS, PostgreSQL, and AWS.
 
 ---
 
-## 🎯 Current Focus
-
-* System Design
-* Scalable Backend Development
-* Cloud Architecture on AWS
-* SaaS & Multi-Tenant Applications
-
----
-
 ## 🤝 Open To
 
 Software Engineer Intern • Full-Stack Developer Intern • Fresher Software Engineer
