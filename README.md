@@ -7,17 +7,6 @@ Building scalable web applications with Next.js, NestJS, PostgreSQL, and AWS.
 
 ---
 
-## 👨‍💻 About Me
-
-* 🎓 3rd-year Software Engineering Student
-* 💻 Passionate about Full-Stack Development and Software Engineering
-* 🚀 Currently building a **CRM SaaS Multi-Tenant** application
-* ☁️ Learning **AWS**, **System Design**, and **Cloud Architecture**
-* 🌱 Continuously improving problem-solving and engineering skills
-* 📫 Reach me: **[nguyenthuan05.work@gmail.com](mailto:nguyenthuan05.work@gmail.com)**
-
----
-
 ## 🛠️ Tech Stack
 
 ### Frontend
@@ -42,4 +31,4 @@ Building scalable web applications with Next.js, NestJS, PostgreSQL, and AWS.
 
 ## 🤝 Open To
 
-Software Engineer Intern • Full-Stack Developer Intern • Fresher Software Engineer
+• Fresher Software Engineer
